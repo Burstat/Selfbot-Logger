@@ -1,0 +1,3 @@
+token= #selfbot token
+errorw= # webhook for sending errors to
+logweb= #webhook to log messages and other stuff to
